@@ -2,6 +2,4 @@ name: [Sad Courier New]
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
-
-
-theme: jekyll-theme-cayman
+remote_theme: fongandrew/hydeout
